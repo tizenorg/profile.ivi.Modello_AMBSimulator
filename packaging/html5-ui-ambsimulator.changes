@@ -1,0 +1,8 @@
+* Wed Mar 12 2014 brianjjones <brian.j.jones@intel.com> submit/tizen/20140307.001208@d3033c7
+- Modifying spec file to rely on Common module, and copying the code from it once installed.
+- Initial commit of the AMBSimulator app
+
+* Thu Mar 06 2014 brianjjones <brian.j.jones@intel.com> c71bd07
+- Initial commit of the AMBSimulator app
+
+
