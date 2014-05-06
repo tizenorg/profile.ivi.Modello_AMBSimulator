@@ -1,3 +1,6 @@
+* Tue May 06 2014 brianjjones <brian.j.jones@intel.com> accepted/tizen/ivi/20140409.182109@68fe932
+- Updated to work with Crosswalk.  TIVI-3078
+
 * Thu Apr 03 2014 brianjjones <brian.j.jones@intel.com> e59b9ad
 - Initial commit of Modello AMBSimulator app
 
