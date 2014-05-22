@@ -1,0 +1,12 @@
+{
+  "name": "Modello AMB Simulator",
+  "version": "0.0.2",
+  "app": {
+    "launch":{
+      "local_path": "index.html"
+    }
+  },
+  "icons": {
+    "128": "AMB_Simulator_icon.png"
+  }
+}
