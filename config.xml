@@ -2,8 +2,8 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://com.intel.tizen/ambsimulator" version="1.0.0" viewmodes="fullscreen">
     <tizen:application id="Modello002.AMBSimulator" package="Modello002" required_version="2.1"/>
     <content src="index.html"/>
-    <icon src="AMB_Simulator_icon.png"/>
-    <name>Modello AMB Simulator</name>
+    <icon src="AMBSimulator_icon.png"/>
+    <name>ModelloAMBSimulator</name>
     <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
     <tizen:privilege name="http://tizen.org/privilege/filesystem.read"/>
     <tizen:privilege name="http://tizen.org/privilege/filesystem.write"/>
