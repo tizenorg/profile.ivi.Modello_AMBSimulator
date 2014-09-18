@@ -26,4 +26,4 @@ rm -rf %{buildroot}
 %files
 %defattr(-,root,root,-)
 /opt/usr/apps/.preinstallWidgets/Modello_AMBSimulator.wgt
-/opt/usr/apps/_common/icons/AMB_Simulator_icon.png
+/opt/usr/apps/_common/icons/AMBSimulator_icon.png
