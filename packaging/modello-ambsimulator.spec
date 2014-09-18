@@ -8,6 +8,7 @@ URL:        http://www.tizen.org
 Source0:    %{name}-%{version}.tar.bz2
 BuildRequires:  zip
 Requires:   Modello_Common
+BuildRequires: pkgconfig(libtzplatform-config)
 
 %description
 A proof of concept pure html5 UI
@@ -25,5 +26,5 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
-/opt/usr/apps/.preinstallWidgets/Modello_AMBSimulator.wgt
-/opt/usr/apps/_common/icons/AMB_Simulator_icon.png
+%{TZ_SYS_APP_PREINSTALL}/Modello_AMBSimulator.wgt
+%{TZ_USER_APP}/_common/icons/AMBSimulator_icon.png
