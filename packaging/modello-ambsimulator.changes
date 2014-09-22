@@ -1,3 +1,8 @@
+* Thu Sep 18 2014 Brian Jones <brian.j.jones@intel.com> submit/tizen_ivi/20140911.180109-2-g01efa20
+- Removing old icon
+- Fixing icon name in files
+- Updating packaging to remove hard coded paths
+
 * Wed Sep 10 2014 Brian Jones <brian.j.jones@intel.com> submit/tizen_ivi/20140819.215742-1-ge14cadf
 - Removing space in app name - Fix for TC-1404
 
