@@ -18,7 +18,7 @@
  * * [async.js](https://github.com/caolan/async) - simplifies asynchronouse operations with Javascript (for sample code see script [lightsDemo.js](../files/applications_ambsimulator_js_lightsDemo.js.html))
  * * [Tween.js](https://github.com/sole/tween.js/) - provides values for various mathematical functions in defined time
  * (for sample code see script [speedDemo2.js](../files/applications_ambsimulator_js_speedDemo2.js.html) or [batteryDemo.js](../files/applications_ambsimulator_js_batteryDemo.js.html))
- * * [tizen.vehicle API](https://raw.github.com/otcshare/automotive-message-broker/master/docs/amb.idl)
+ * * [navigator.vehicle API](https://raw.github.com/otcshare/automotive-message-broker/master/docs/amb.idl)
  * * {{#crossLink "Simulator/amblog:method"}}{{/crossLink}} - provides console for logging events occured during script execution
  *
  * To add additional libraries into environment add links into `<head>` section of application `index.html` file.

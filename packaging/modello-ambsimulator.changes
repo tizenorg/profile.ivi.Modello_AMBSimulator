@@ -1,3 +1,6 @@
+* Mon Dec 01 2014 Brian Jones <brian.j.jones@intel.com> accepted/tizen/3.0.m14.3/ivi/20141018.100011-1-gc78f043
+- Changed to use the navigator.vehicle namespace - TC-2055
+
 * Tue Oct 07 2014 Brian Jones <brian.j.jones@intel.com> submit/tizen_ivi/20141007.174646-1-g57a37aa
 - clean spec file
 - Fix for TC-1560 UI always zoomed out
